@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="GB2312" ?>
+<Partition_Info ProgrammerFile="">
+<Part Sel="1" PartitionName="fastboot" FlashType="emmc" FileSystem="none" Start="0" Length="1M" SelectFile="Y:\hisilicon\3516dv300\output\u-boot-hi3516dv300.bin"/>
+<Part Sel="1" PartitionName="" FlashType="emmc" FileSystem="none" Start="1M" Length="4M" SelectFile="Y:\hisilicon\3516dv300\output\uImage"/>
+<Part Sel="1" PartitionName="" FlashType="emmc" FileSystem="ext3/4" Start="5M" Length="7440M" SelectFile="Y:\hisilicon\3516dv300\output\rootfs_hi3516dv300_7456M.ext4"/>
+</Partition_Info>
